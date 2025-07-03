@@ -39,7 +39,7 @@ A simple and modular Bookstore REST API built with **Node.js** and **Express**, 
 
 After login, use the received token like this:
 
-```http```
+
 
 Authorization: Bearer <your_token_here>
 
@@ -50,6 +50,8 @@ Key = Authorization
 Value = Bearer eyJhbGciOi...
 
 ## 📁 Folder Structure
+
+```http
 
 BOOKSTORE-API/
 ├── config/
