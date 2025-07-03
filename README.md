@@ -39,7 +39,8 @@ A simple and modular Bookstore REST API built with **Node.js** and **Express**, 
 
 After login, use the received token like this:
 
-```http
+```http```
+
 Authorization: Bearer <your_token_here>
 
 In Postman:
